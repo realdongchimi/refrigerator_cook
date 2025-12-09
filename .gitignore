@@ -1,0 +1,7 @@
+# User Specific
+xcuserdata/
+*.xcworkspace/
+.DS_Store
+
+# API Keys
+refrigerator_cook/Utilities/Constants.swift
